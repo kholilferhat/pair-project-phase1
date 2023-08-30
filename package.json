@@ -1,0 +1,21 @@
+{
+  "name": "pair-project-phase1",
+  "version": "1.0.0",
+  "description": "Social media web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.3",
+    "sequelize": "^6.32.1",
+    "sequelize-cli": "^6.6.1"
+  }
+}
